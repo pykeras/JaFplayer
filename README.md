@@ -73,7 +73,7 @@ JaFplayer stores its configuration and user settings locally at:
 
 ## Installation & Releases
 
-Pre-built binaries are available for Linux on the [Releases](../../releases) page. Supported package formats include:
+Pre-built binaries are available for `Linux` and `Windows` on the [Releases](../../releases) page. Supported package formats include:
 
 * `.deb` (Debian / Ubuntu based)
 * `.rpm` (Fedora / RHEL / openSUSE)
